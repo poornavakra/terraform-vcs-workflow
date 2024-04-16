@@ -1,2 +1,1 @@
-# terraform-vcs-workflow
-This repository has the Terraform configuration files to test VCS workflow
+This is a sample code which shows how the public module can be used to launch vpc, security group and ec2 instance. 
